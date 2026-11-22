@@ -3703,7 +3703,6 @@
     "preferences.in_a_linked_group_select": "Dans un groupe lié : sélectionner ce clip seul, ou armer cette piste seule",
     "preferences.in_dark_mode": "En mode sombre",
     "preferences.in_light_mode": "En mode clair",
-    "preferences.in_the_xl_panel_return": "Dans le panneau XL (EQ-8, Dynamic EQ-8) : remettre l’appareil en L, comme Shrink dans son en-tête",
     "preferences.inputs": "Entrées",
     "preferences.inputs_hint": "Désactiver les entrées inutilisées et nommer les autres : les menus d’entrée des pistes ne listent que les entrées activées, sous ces noms. Conservé pour ce périphérique.",
     "preferences.inputs_no_device": "Aucun périphérique d’entrée : en choisir un ci-dessus, ou en connecter un.",
